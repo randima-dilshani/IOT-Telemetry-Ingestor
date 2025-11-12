@@ -13,9 +13,9 @@ npm install
 
 ## 3. Add a .env file
 
-MONGO_URI=mongodb:
-REDIS_URL=redis:
-ALERT_WEBHOOK_URL=
+MONGO_URI=mongodb:<br>
+REDIS_URL=redis:<br>
+ALERT_WEBHOOK_URL=<br>
 INGEST_TOKEN=
 
 ## 4. Start the app
