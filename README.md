@@ -24,12 +24,12 @@ npm run start:dev
 
 # 🚀 API Endpoints
 
-POST /api/v1/telemetry
+POST /api/v1/telemetry <br>
 GET /api/v1/devices/:deviceId/latest
 
 # 🧪 Test Commands
 
-npm run test
+npm run test <br>
 npm run test:e2e
 
 # 🌐 Webhook
