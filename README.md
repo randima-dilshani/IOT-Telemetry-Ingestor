@@ -37,7 +37,7 @@ npm run test:e2e
 Alert URL used for testing:
 👉 https://webhook.site/e933e5f2-7e3e-48ad-8f20-b90eba838274
 
-# AI Assistance Summary
+# 🤖 AI Assistance Summary
 
 Suggested approaches for DTO validation using class-validator and class-transformer.
 
